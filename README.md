@@ -11,3 +11,4 @@ Solutions to Algebraic Geometry by Robin Hartshorne
   8. Jinhyun Park, http://mathsci.kaist.ac.kr/~jinhyun/sol2/hart.html. Chapters 1 to 5, part.
   9. W Stein, http://wstein.org/AG.html. Chapters 2 and 3, part.
  10. Piye Yang, https://github.com/Ngiap/Hartshorne-Solutions, chapters 1 to 5, all.
+ 11. Christopher Eur, https://math.berkeley.edu/~ceur/notes_pdf/Eur_HartshorneNotes.pdf, chapters 1 to 5, all.
