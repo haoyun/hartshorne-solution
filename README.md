@@ -14,3 +14,5 @@ Solutions to Algebraic Geometry by Robin Hartshorne
   9. W Stein, http://wstein.org/AG.html. Chapters 2 and 3, part.
  10. Piye Yang, https://github.com/Ngiap/Hartshorne-Solutions (broken link), chapters 1 to 5, all.
  11. Christopher Eur, https://math.berkeley.edu/~ceur/notes_pdf/Eur_HartshorneNotes.pdf (broken link), chapters 1 to 5, all.
+ 
+ If you can read Japanese, the Japanese version 代数幾何学 1-3 translated by 高橋 宣能 includes hints to all the exercises.
